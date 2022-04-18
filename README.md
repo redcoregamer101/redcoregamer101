@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syskey
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning phyton
-- 📫 How to reach me discord.gg/69-420 (syskey#9199)
+- 🌱 I’m currently learning Ruby
+- 📫 How to reach me discord.gg/oof (syskey#9199)
 
 
 
